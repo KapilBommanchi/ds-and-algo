@@ -1,2 +1,2 @@
 # ds-and-algo
-Learn and Implementing data structure and algorithm using java language 
+Learn and Implement data structure and algorithm using java language 
